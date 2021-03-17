@@ -12,6 +12,8 @@ jobs:
         uses: actions/checkout@master
       - name: Install Dependencies
         run: npm install
+      - name: Install NPM Save Charts
+        run: npm install --save chart.js
       - name: Build
         run: npm run build
       - name: Archive Production Artifact

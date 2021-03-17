@@ -1,4 +1,4 @@
-# bt3103-week-8 
+# bt3103-week-8 GitHub Actions
 
 ## Project setup
 ```
